@@ -45,10 +45,7 @@
       color="green"
       :current="color == 'green' ? true : false"
     />
-
-
   </div>
-
 </template>
 
 <script>
