@@ -1,5 +1,7 @@
 # pixel-app
-
+```
+created a pixel canvas color board, using VueJs.
+```
 ## Project setup
 ```
 npm install
